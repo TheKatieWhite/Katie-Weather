@@ -1,0 +1,66 @@
+.logo {
+  display: block;
+  margin: 25px;
+}
+.entercity {
+  background-color: #f2f1f1;
+}
+
+.buttonsearch {
+  background-color: rgb(143, 121, 250);
+}
+
+#buttonlocal {
+  background-color: white;
+  color: rgb(143, 121, 250);
+}
+
+h3 {
+  display: block;
+  margin-left: 25px;
+  margin-botton: 0;
+}
+h1 {
+  display: block;
+  font-size: 60px;
+  font-weight: 700;
+}
+.temptype {
+  font-size: 20px;
+}
+
+a {
+  color: #3ebdff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
+.currentinfo {
+  display: block;
+  margin-left: 25px;
+  margin-top: 0;
+  font-size: 14px;
+  color: grey;
+}
+
+.daily {
+  text-align: center;
+}
+
+.day {
+  color: gray;
+  font-size: 14px;
+}
+
+.temp {
+  color: red;
+  font-size: 12px;
+}
+
+.closer {
+  text-align: center;
+  color: grey;
+  font-size: 10px;
+}
